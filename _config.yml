@@ -1,9 +1,9 @@
 title: ""
 email: ""
-description: "Um blog simples para publicar artigos."
+description: ""
 baseurl: ""
 theme: minima
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
-github_username: localhostonly
+github_username: 
