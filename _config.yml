@@ -1,8 +1,14 @@
-title: "localhostonly"
-email: ""
-description: ""
-baseurl: ""
-theme: minima
+
+title: localhostonly
+description: Um blog simples para publicar artigos.
+
+remote_theme: jekyll/minima
 plugins:
-  
-github_username: 
+  - jekyll-remote-theme
+
+# Incluir CSS customizado
+sass:
+  style: compressed
+
+include:
+  - assets/css/custom.css

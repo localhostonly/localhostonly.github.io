@@ -1,0 +1,10 @@
+
+/* Esconde o título da lateral no Minima */
+.sidebar .site-title {
+  display: none;
+}
+
+/* Esconde também a descrição */
+.sidebar .site-description {
+  display: none;
+}
