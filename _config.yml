@@ -1,0 +1,9 @@
+title: "localhostonly"
+email: ""
+description: "Um blog simples para publicar artigos."
+baseurl: ""
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+github_username: localhostonly
