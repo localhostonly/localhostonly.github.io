@@ -5,6 +5,8 @@ description: Um blog simples para publicar artigos.
 remote_theme: jekyll/minima
 plugins:
   - jekyll-remote-theme
+  - jekyll-feed
+  - jekyll-seo-tag
 
 # Incluir CSS customizado
 sass:
