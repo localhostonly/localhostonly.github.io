@@ -1,6 +1,6 @@
 
 title: localhostonly
-description: Um blog simples para publicar artigos.
+description:
 
 remote_theme: jekyll/minima
 plugins:
