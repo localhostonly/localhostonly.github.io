@@ -3,4 +3,4 @@ layout: home
 title: ""
 ---
 
-> Bem-vindo(a)! Aqui estão meus últimos artigos:
+> olá, pessoa! aqui estão minhas últimas publicações — boa leitura!
