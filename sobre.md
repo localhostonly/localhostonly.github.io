@@ -1,1 +1,5 @@
-essa é minha aba de sobre.
+---
+layout: page
+title: Sobre
+permalink: /sobre/
+---
