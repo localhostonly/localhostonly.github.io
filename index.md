@@ -1,6 +1,6 @@
 ---
-layout: page
-title: home
+layout: home
+title: ""
 ---
 
-meu index
+> Bem-vindo(a)! Aqui estão meus últimos artigos:
